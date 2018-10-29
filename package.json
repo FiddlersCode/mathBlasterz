@@ -1,0 +1,33 @@
+{
+  "name": "mathblasterz",
+  "version": "1.0.0",
+  "description": "by Paula Muldoon",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiddlersCode/mathBlasterz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FiddlersCode/mathBlasterz/issues"
+  },
+  "homepage": "https://github.com/FiddlersCode/mathBlasterz#readme"
+}
