@@ -9,6 +9,8 @@ Software Crafters meetup in October 2018.
 
 - Run `npm install`
 
-- To run the linter: `npm run eslint`
+- To run the linter: `npm run eslint . --fix`
+
+- To run the unit tests: `npm run test`
 
 - Visit `http://54.85.100.225:8000/` to see the api instructions
